@@ -1,0 +1,2 @@
+! Remove game suggestion blocks above the online friend list.
+www.facebook.com###pagelet_canvas_nav_content
